@@ -1,0 +1,4 @@
+## vagrant
+
+---
+The virtual machine
